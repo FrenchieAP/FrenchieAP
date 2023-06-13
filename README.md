@@ -8,4 +8,4 @@ Currently, I'm having fun teaching myself PHP in order to build a barcode scanne
 
 I am actively looking for a full-time position as a developer, and would love to continue honing my skills while providing scaleable solutions at your company. 
 
-Please feel free to contact me at anthony.pepino1@gmail.com . 
+Please feel free to contact me at antoinevpepino@gmail.com . 
