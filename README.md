@@ -2,8 +2,8 @@
 
 My name is Antoine Pepino, welcome to my GitHub.
 
-Former chef, now a budding software developer! I discovered my passion for coding during the pandemic and decided to change careers. I graduated from Coding Dojo in 2022. During this intensive bootcamp, I spent over 1000 hours learning the craft, going from "Hello World" to full CRUD applications, in 3 full stacks (Python/Flask, MERN, Java/Spring).
+Former chef, now a budding software developer!  In the midst of the pandemic, I renewed my old passion for coding and dedicated two years to learning the art of programming. This journey led me to enroll at Coding Dojo, where I built a solid foundation in full-stack development. I'm eager collaborate with innovative teams and deliver scalable solutions that drive business success.
 
-I am actively looking for a full-time position as a developer, and would love to continue honing my skills while providing scaleable solutions at your company. 
+Nowadays working as a key contributor for "GrapplingDummy", a team project focused on leveraging OpenAI's ChatGPT for martial arts instruction (Currently private, available for demo).
 
 Please feel free to contact me at antoinevpepino@gmail.com . 
